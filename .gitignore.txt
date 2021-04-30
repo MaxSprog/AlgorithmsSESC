@@ -1,9 +1,0 @@
-*.exe
-*.o
-*.tmp
-*.dat
-*.plt
-*.txt
-*.jpg
-*.py
-*.json
