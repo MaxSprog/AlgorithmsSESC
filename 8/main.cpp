@@ -93,7 +93,7 @@ int main(int argc, char** argv){
     }
     int S = 0;
     for(int i = 1; i < N; i++){
-        S += adj[i][p[i]];
+        S += dist[i];
     }
     fout << S;
 }
